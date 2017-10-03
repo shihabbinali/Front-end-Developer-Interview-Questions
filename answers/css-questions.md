@@ -57,7 +57,7 @@ My faviourite is H5BP, as it is the simplest and most intuitive one.
 
 #### How would you approach fixing browser-specific styling issues?
 
-*Not answered yet*
+I'd make separate stylesheet for every browser style issue fixing and load it conditionally JavaScript.
 
 #### How do you serve your pages for feature-constrained browsers?
 ###### What techniques/processes do you use?
